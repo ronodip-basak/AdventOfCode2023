@@ -1,4 +1,4 @@
-# Advent of Code 2023 Solution
+# Advent of Code 2023 Day 1 Solution
 ## _Works for both Part 1 and Part 2_
 
 [Advent of Code](https://adventofcode.com/)
