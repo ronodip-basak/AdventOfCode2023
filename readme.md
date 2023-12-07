@@ -1,16 +1,9 @@
-# Advent of Code 2023 Day 1 Solution
+# Advent of Code 2023 Day 2 Solution
 ## _Works for both Part 1 and Part 2_
 
 [Advent of Code](https://adventofcode.com/)
 
-Implements the Advent of Code 2023 solution for day 1 using RegEx
-
-## This is for Part 2. Where's Part 1?
-
-- This solution will work for both Part 1 and Part 2
-- To use as part 1 solution, open the MatchNumbers class (in.ronb.MatchNumbers) and set writtenWords to an empty list
-- This will provide solution for Part 1
-
+Implements the Advent of Code 2023 solution for day 2 solution
 
 ## How to use?
 > This is a guide for running the code in compiled java. If you know what you're doing, just pass the input text file as first paramete to the application
